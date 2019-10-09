@@ -1,0 +1,9 @@
+{
+  "name": "@bretterer/twitch_chat_connection",
+  "version": "0.1.0",
+  "description": "A node server to proxy messages to twitch chat in any channel as yourself",
+  "main": "src/index.js",
+  "repository": "git@github.com:/bretterer/twitch_chat_connection.git",
+  "author": "Brian Rettere <brian@brianretterer.com>",
+  "license": "MIT"
+}
